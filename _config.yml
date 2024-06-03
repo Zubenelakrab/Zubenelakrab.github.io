@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Computer oddisey
+title: Pablo Andres Aguilar Sepulveda
 email: ruthenford@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Random things from the internet experience.
+footer_description: Enjoy games
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: zubenelakrab
 twitter_username: unixlover
-github_username:  zubenelakrab
-
+linkedin_username: unixlover
+instagram_username: unstabledifussion
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

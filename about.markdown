@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Software Curiousity
+Social Media
 
+[Github](https://github.com/zubenelakrab) |
 [Twitter](https://twitter.com/unixlover) |
-[Linkedin](https://www.linkedin.com/in/unixlover/)
+[Linkedin](https://www.linkedin.com/in/unixlover/) |
+[Instagram](https://www.instagram.com/unstabledifussion/)
